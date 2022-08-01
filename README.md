@@ -1,5 +1,5 @@
-# Tratamento de Exceções em Java
+# Collections - Java
 
-Exercícios propostos pelo curso de Tratamento de Exceções em Java da plataforma Dio.me	
+Exercícios propostos pelo curso de Collections em Java da plataforma Dio.me	
 #
 Parte do Bootcamp Santander Code Girls :heart_decoration:
